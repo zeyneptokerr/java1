@@ -1,0 +1,7 @@
+com\javacourse\project\hibernateAndJpa\Business\IActivityService.class
+com\javacourse\project\hibernateAndJpa\HibernateAndJpaApplication.class
+com\javacourse\project\hibernateAndJpa\restApi\ActivityController.class
+com\javacourse\project\hibernateAndJpa\Entities\Activity.class
+com\javacourse\project\hibernateAndJpa\DataAccess\IActivityDal.class
+com\javacourse\project\hibernateAndJpa\Business\ActivityManager.class
+com\javacourse\project\hibernateAndJpa\DataAccess\HibernateActivityDal.class
